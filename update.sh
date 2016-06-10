@@ -25,4 +25,7 @@ sudo apt-get clean
 
 # UPDATE LOCATE DB
 # ------------------------------------
-sudo updatedb
+updatedb
+
+
+apt-get install unattended-upgrades
